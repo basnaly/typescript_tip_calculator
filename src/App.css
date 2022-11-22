@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+span {
+  color: blue;
+  font-size: 24px;
+  padding: 0 10px;
+}
+
+.button-padding {
+  padding: 20px 0;
+}
